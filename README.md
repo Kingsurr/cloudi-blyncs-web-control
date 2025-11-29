@@ -74,10 +74,10 @@ Untuk menjalankan **Cloudi Blyncs Web Control**, Anda hanya perlu menyalin kode 
 ## ✍️ Kontributor
 Proyek **Cloudi Blyncs Web Control** dikembangkan oleh:
 
-* [Nama Anda/Username GitHub Anda]
+* [Hary Suryadi/Kingsurr]
 
 Anda dapat mengunjungi situs proyek ini secara langsung di:
-[Tautan ke GitHub Pages Anda: `https://kingsunr.github.io/cloudi-blyncs-web-control/`]
+[Tautan ke GitHub Pages Anda: `https://kingsurr.github.io/cloudi-blyncs-web-control/`]
 
 ---
 *Dibuat dengan ❤️ untuk kemudahan kontrol IoT.*
